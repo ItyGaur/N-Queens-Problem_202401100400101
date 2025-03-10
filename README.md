@@ -1,1 +1,2 @@
 # N-Queens-Problem_202401100400101
+The N-Queens problem is an old chestnut where N queens need to be put on an N×N chessboard such that no two queens attack each other. This implies that no two queens should be placed in the same row, the same column, or on the same diagonal. The goal is to come up with a correct arrangement for a given N such that all queens are safely placed. It is widely applied in computer science and artificial intelligence to investigate algorithms pertaining to backtracking, constraint satisfaction, and optimization.
